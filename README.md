@@ -1,1 +1,5 @@
+
 # ClonPinterest
+=======
+# pinterest-proyecto
+
